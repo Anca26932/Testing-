@@ -14,6 +14,9 @@ public class Vehicles {
     public String VIN; //Vehicle Identification Number
     public Double engineSize;
 
+
+
+
 @Test
     public void displayInfo(){
         Make="Peugeot ";
